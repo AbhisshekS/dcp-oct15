@@ -6,7 +6,7 @@ With port 8080 & Name Tag
 Update the Instance
 
 Execute only in Master:
-
+official download page : for reference page : https://www.jenkins.io/download/
 #Install Jenkins :
 
 sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
